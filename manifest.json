@@ -1,7 +1,7 @@
 {
   "name": "CardAi Scanner",
   "short_name": "CardAi",
-  "start_url": "index.html",
+  "start_url": "loading.html",
   "display": "standalone",
   "background_color": "#ffffff"
   "theme_color": "#3399ff"
