@@ -1,0 +1,26 @@
+#intro {
+    text-align:center;
+    font-family:Georgia;
+}
+
+button {
+    background-color: #3399ff;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    margin: 10px;
+    font-size: 15px;
+    outline: none;
+}
+
+body {
+    text-align: center;
+   
+}
+
+.clickable:hover{
+    filter:brightness(128%);
+    transform: scale(1.1);
+}
